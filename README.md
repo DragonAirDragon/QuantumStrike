@@ -53,5 +53,6 @@ QuantumStrike — это демонстрационный проект высо�
 
 ## Ссылки
 
--   Репозиторий GitHub: [https://github.com/DragonAirDragon/QuantumStrike](https://github.com/DragonAirDragon/QuantumStrike)
--   Страница портфолио: [https://dragonairdragon.github.io/QuantumStrike.html](https://dragonairdragon.github.io/QuantumStrike.html)
+-   Репозиторий GitHub: https://github.com/DragonAirDragon/QuantumStrike
+-   Новый репозиторий: https://github.com/DragonAirDragon/QuantumStrikeMorpeh
+-   Страница портфолио: https://dragonairdragon.github.io/QuantumStrike.html
